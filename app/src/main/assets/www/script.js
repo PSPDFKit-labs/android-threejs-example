@@ -33,9 +33,7 @@ scene.add(topLigh);
 
 //Set backgound color
 scene.background = new THREE.Color(0xefefef);
-
 var mtlLoader = new THREE.MTLLoader();
-
 
 function loadModel(path, model) {
   try {
