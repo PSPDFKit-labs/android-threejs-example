@@ -1,3 +1,3 @@
 # Load OBJ models using threejs in Android
-Blog Post link: **comming soon...**
+Blog Post link: **coming soon...**
 
